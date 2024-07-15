@@ -5,7 +5,7 @@ https://huggingface.co/Qwen/Qwen-1_8B-Chat
 Download the Qwen model from the above website.
 '''
 
-modelpath = '/path/to/your/model'
+modelpath = '/kaggle/working/Qwen2-1.5B-Instruct'
 llm = RKLLM()
 
 # Load model
